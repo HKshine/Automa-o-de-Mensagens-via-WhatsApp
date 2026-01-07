@@ -1,4 +1,5 @@
 # 📲 Automação de Mensagens automática via WhatsApp
+<img width="1015" height="477" alt="Captura de tela 2026-01-08 003208" src="https://github.com/user-attachments/assets/f0bcc1f4-41b5-4b48-a160-6e412fa709e3" />
 
 Este projeto tem como objetivo **automatizar o envio de mensagens de cobrança para clientes via WhatsApp Web**, utilizando uma planilha Excel como base de dados. A automação permite enviar mensagens personalizadas em **datas específicas**, considerando **clientes com vencimentos diferentes**.
 
