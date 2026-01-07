@@ -1,4 +1,4 @@
-# 📲 Automação de Mensagens de Cobrança via WhatsApp
+# 📲 Automação de Mensagens automática via WhatsApp
 
 Este projeto tem como objetivo **automatizar o envio de mensagens de cobrança para clientes via WhatsApp Web**, utilizando uma planilha Excel como base de dados. A automação permite enviar mensagens personalizadas em **datas específicas**, considerando **clientes com vencimentos diferentes**.
 
